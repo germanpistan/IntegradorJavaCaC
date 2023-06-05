@@ -2,7 +2,7 @@
   <a name="ir-arriba"></a>
   # 💻 Conf Bs As
 
-  Trabajo Integrador #1 del módulo Frontend para el curso **Codo a Codo Java Full Stack 2022**
+  Trabajo Integrador #1 del módulo Frontend para el curso **Codo a Codo Java Full Stack 2023**
   <div align="center">
     <table>
       <tr>
@@ -10,13 +10,13 @@
         Consigna: Replica realizada con HTML, Bootstrap y JavaScript
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-carousel.jpg" width="400px">
+          <img src="https://github.com/germanpistan/IntegradorJavaCaC/blob/main/img/final_front_2021.jpg" width="400px">
         </td>
       </tr>
     </table>
   </div>
 
-  🔗 **Página muestra:** https://cac-tp1-integrador.netlify.app/
+  🔗 **Página muestra:** 
 
 <!-- ÍNDICE -->
   <a name="indice"></a>
@@ -67,7 +67,7 @@
   Si deseas correr la web en un entorno local debes tener en cuenta lo siguiente: 
   1. Clona el repositorio utilizando GIT o descargando el archivo ZIP:
 
-      `git clone https://github.com/joana-coll/Conf-Bs-As.git`
+      `git clone https://github.com/germanpistan/IntegradorJavaCaC.git`
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
 <!-- SECCIONES DE LA WEB -->
@@ -107,8 +107,8 @@
 
 <!-- DESARROLLADO POR -->
   <a name="desarrollado"></a>
-  ## 💁 Desarrollado por...
-  * **Joana Coll** - [joana-coll](https://github.com/joana-coll)
+  ##  Desarrollado por...
+  * **Anibal German Pistan** - [german-pistan](https://github.com/germanpistan)
   
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
@@ -116,21 +116,20 @@
   <a name="contacto"></a>
   ## 📩 Contacto
   Si deseas contactarte conmigo:
-  <a href="https://ar.linkedin.com/in/joana-coll" target="_blank">
+  <a href="https://www.linkedin.com/in/anibal-german-pistan-3b9770172/" target="_blank">
   <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/linkedin.svg" alt="Github" height="30" />
   </a>
-  <a href="mailto:colljoana@gmail.com" target="_blank">
+  <a href="mailto:anibalgermanpistan@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/envelope-solid.svg" alt="Github" height="30" />
   </a>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 <!-- AGRADECIMIENTO -->
   <a name="agradecimiento"></a>
-  ## ❤️ Agradecimiento
-  Gracias por leer hasta aquí, espero que el proyecto te sea útil. No tiene Licencia pero podes usarlo como gustes mientras sigas fomentando el código libre y ayudando a otros pares. 
   
-  ¡Que tengas un lindo día!
   
-  Nana ✨
+  
+  
+  German ✨
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
