@@ -2,7 +2,7 @@
   <a name="ir-arriba"></a>
   # 💻 Conf Bs As
 
-  Trabajo Integrador #1 del módulo Frontend para el curso **Codo a Codo Java Full Stack 2023**
+  Trabajo Integrador #1 de FrontEnd para el curso **Codo a Codo Java Full Stack 2023**
   <div align="center">
     <table>
       <tr>
